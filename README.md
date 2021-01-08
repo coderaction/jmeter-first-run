@@ -1,4 +1,4 @@
-# JMETER Nasil Calisitirilir?
+# JMETER Nasil Calistirilir?
 
 -  [JMETER'i Indirmek Icin](https://jmeter.apache.org/download_jmeter.cgi) for mac tgz indiriyoruz
 
