@@ -21,7 +21,7 @@ Daha sonrasinda bin dosyasinin asagida ki gordukten sonrna
 
 [![N|Solid](https://github.com/coderaction/jmeter-learning/blob/main/images/bin.png?raw=true)](https://nodesource.com/products/nsolid)
 
-Jmeter'i calistirmak icinse 
+Jmeter'i calistirmak icin asagida ki kodu yaziyoruz 
 
 ```sh
 $ sh jmeter.sh
