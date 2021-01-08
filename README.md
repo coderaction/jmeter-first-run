@@ -1,4 +1,4 @@
-# JMETER Kullanimi
+# JMETER First Run
 
 -  [JMETER'i Indirmek Icin](https://jmeter.apache.org/download_jmeter.cgi) for mac tgz indiriyoruz
 
