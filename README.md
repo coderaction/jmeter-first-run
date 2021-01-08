@@ -1,4 +1,4 @@
-# JMETER First Run
+# JMETER Nasil Calisitirilir?
 
 -  [JMETER'i Indirmek Icin](https://jmeter.apache.org/download_jmeter.cgi) for mac tgz indiriyoruz
 
